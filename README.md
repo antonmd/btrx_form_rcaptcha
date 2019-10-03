@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[
+  <content>
 
 # Feedback form with AJAX and ReCaptcha v3
 TODO: Форма обратной связи и обработчик к ней для Битрикс с проверкой на спам через невидимую Google ReCaptcha v3. Форма создает запись с данными из формы в указанном инфоблоке и отправляет оповещение по электронной почте.
@@ -9,6 +9,5 @@ TODO: Вставте форму в нужное место на сайте, фа
 
 ## License
 TODO: Пользуйтесь на здоровье
-]]></content>
-  <tabTrigger>readme</tabTrigger>
+</content>
 </snippet>
